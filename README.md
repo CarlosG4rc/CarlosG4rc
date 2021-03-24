@@ -4,7 +4,7 @@ Conoce más sobre mí en :
 [Charls](https://carlos-g4rcia.netlify.app)
 
 ### I'm currently learning software development with python
-´´´ python
+''' python
 #Charls Progrmation
     
 from CarlosG4rc import python
@@ -16,4 +16,5 @@ from CarlosG4rc import mysql
 from CarlosG4rc import apps script
 from CarlosG4rc import c++
 
-´´´
+'''
+
