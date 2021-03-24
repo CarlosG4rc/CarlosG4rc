@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+
+Conoce más sobre mí en : 
+[link](https://carlos-g4rcia.netlify.app)
+
+### I'm currently learning on software development with python
 
 <!--
 **CarlosG4rc/CarlosG4rc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
