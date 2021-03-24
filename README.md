@@ -6,7 +6,7 @@ Conoce más sobre mí en :
 ### I'm currently learning software development with python
 
 ```python
-    #Charls Progrmation
+    #Charls Program
 
     from CarlosG4rc import python
     from CarlosG4rc import javaScript
