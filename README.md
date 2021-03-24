@@ -3,8 +3,10 @@
 Conoce más sobre mí en : 
 [link](https://carlos-g4rcia.netlify.app)
 
-### I'm currently learning on software development with python
+### I'm currently learning software development with python
 
+    #Charls Progrmation
+    
     from CarlosG4rc import python
     from CarlosG4rc import javaScript
     from CarlosG4rc import html
