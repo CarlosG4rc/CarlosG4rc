@@ -16,5 +16,5 @@ Conoce más sobre mí en :
     from CarlosG4rc import mysql
     from CarlosG4rc import mongo
     from CarlosG4rc import docker
-    from CarlosG4rc import node
+    from CarlosG4rc import node.js
 ```    
